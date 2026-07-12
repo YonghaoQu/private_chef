@@ -1,0 +1,7 @@
+langchain
+langchain-openai
+langchain-tavily
+langgraph-checkpoint-sqlite
+langgraph-cli[inmem]
+fastapi
+alibabacloud-oss-v2
